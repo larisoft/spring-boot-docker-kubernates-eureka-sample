@@ -1,4 +1,4 @@
-package com.larisoftmoviecatalogueservice.movieservice;
+package com.larisoftmoviecatalogueservice.ratingservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
